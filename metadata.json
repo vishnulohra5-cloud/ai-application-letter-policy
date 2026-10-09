@@ -1,0 +1,7 @@
+{
+  "name": "AI Application Letter",
+  "description": "Craft formal leave & official application letters with AI and pure Indian stitch elegance. Features instant A4 PDF export, multi-language support (Hindi, English, Marathi, Bangla), customizable templates, and interactive editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
